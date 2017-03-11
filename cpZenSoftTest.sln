@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringComparator", "StringComparer\StringComparator.csproj", "{86474ECF-7D95-41F0-AF69-BA0BA7934F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSearch", "WebSearch\WebSearch.csproj", "{3545C669-35B9-4209-8EC8-478DA960D84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86474ECF-7D95-41F0-AF69-BA0BA7934F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86474ECF-7D95-41F0-AF69-BA0BA7934F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86474ECF-7D95-41F0-AF69-BA0BA7934F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86474ECF-7D95-41F0-AF69-BA0BA7934F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3545C669-35B9-4209-8EC8-478DA960D84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3545C669-35B9-4209-8EC8-478DA960D84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3545C669-35B9-4209-8EC8-478DA960D84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3545C669-35B9-4209-8EC8-478DA960D84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
